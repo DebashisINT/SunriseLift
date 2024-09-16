@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015862092544",
+    "project_id": "breeze-sunrise-lift",
+    "storage_bucket": "breeze-sunrise-lift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015862092544:android:10b62182e5a582aee5c9e5",
+        "android_client_info": {
+          "package_name": "com.breezefieldsalessunriselift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fiG0-FHn75b5RnlzUn6Gp2x6KI1Sb1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
